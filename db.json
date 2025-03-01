@@ -1,0 +1,2034 @@
+{
+  "employeeuserdata": [
+    {
+      "id": 1,
+      "emp_id": "Sys-101",
+      "user_name": "admin",
+      "email": "admin@admin.com",
+      "password": "admin",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Furqan Zamir",
+        "last_name": "Zamir",
+        "gender": "Male",
+        "date_of_birth": "2025-02-24",
+        "about_us": "Lorem text rext",
+        "mobile_number": "+923456565989"
+      },
+      "address": {
+        "street_address": "724th Street",
+        "regions": [
+          "UAE"
+        ],
+        "location": "Karachi",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "billing": [
+          "1.0"
+        ],
+        "joining_date": "2025-02-24",
+        "department": "CRM",
+        "manager": "Ayesha Khan",
+        "designation": "Senior frontend Developer",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png",
+        "regions": [
+          {
+            "label": "UAE",
+            "value": "UAE",
+            "selected": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "emp_id": "Sys-103",
+      "user_name": "janesmith",
+      "email": "jane.smith@email.com",
+      "password": "pass456",
+      "confirmPassword": "",
+      "status": "Resigned",
+      "personal": {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Creative UI/UX Designer",
+        "mobile_number": "+923456565922"
+      },
+      "address": {
+        "street_address": "789 Oak Street",
+        "regions": [],
+        "location": "Islamabad"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "0.5",
+          "0.25"
+        ],
+        "manager": "Michael Scott",
+        "designation": "UI/UX Designer",
+        "project_name": [
+          "E-commerce Platform",
+          "UAE Project"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 4,
+      "emp_id": "Sys-104",
+      "user_name": "peterparker",
+      "email": "peter.parker@email.com",
+      "password": "spidey",
+      "confirmPassword": "",
+      "status": "Inactive",
+      "personal": {
+        "first_name": "Peter",
+        "last_name": "Parker",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Friendly neighborhood developer",
+        "mobile_number": "+923456565933"
+      },
+      "address": {
+        "street_address": "31st Street",
+        "regions": [],
+        "location": "Queens"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "0.5"
+        ],
+        "manager": "Tony Stark",
+        "designation": "Frontend Developer",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 5,
+      "emp_id": "Sys-105",
+      "user_name": "tonystark",
+      "email": "tony.stark@stark.com",
+      "password": "ironman",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Tony",
+        "last_name": "Stark",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Innovating the future",
+        "mobile_number": "+923456565944"
+      },
+      "address": {
+        "street_address": "10880 Malibu Point",
+        "regions": [],
+        "location": "Malibu"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Pepper Potts",
+        "designation": "CEO",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 6,
+      "emp_id": "Sys-106",
+      "user_name": "brucewayne",
+      "email": "bruce.wayne@wayne.com",
+      "password": "batman",
+      "confirmPassword": "",
+      "status": "Resigned",
+      "personal": {
+        "first_name": "Bruce",
+        "last_name": "Wayne",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Gotham's protector",
+        "mobile_number": "+923456565955"
+      },
+      "address": {
+        "street_address": "Wayne Manor",
+        "regions": [],
+        "location": "Gotham"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Alfred Pennyworth",
+        "designation": "Head of Security",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 7,
+      "emp_id": "Sys-107",
+      "user_name": "natashar",
+      "email": "natasha.romanoff@shield.com",
+      "password": "blackwidow",
+      "confirmPassword": "",
+      "status": "Inactive",
+      "personal": {
+        "first_name": "Natasha",
+        "last_name": "Romanoff",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Espionage expert",
+        "mobile_number": "+923456565966"
+      },
+      "address": {
+        "street_address": "SHIELD HQ",
+        "regions": [],
+        "location": "Washington"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Nick Fury",
+        "designation": "Field Agent",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 8,
+      "emp_id": "Sys-108",
+      "user_name": "admin",
+      "email": "admin@admin.com",
+      "password": "admin",
+      "confirmPassword": "",
+      "status": "Terminated",
+      "personal": {
+        "first_name": "Furqan",
+        "last_name": "Zamir",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Lorem text",
+        "mobile_number": "+923456565999"
+      },
+      "address": {
+        "street_address": "724th Street",
+        "regions": [],
+        "location": "New York"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Muhamad Sohail Ahmed",
+        "designation": "Senior Consultancy Frontend Developer",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 9,
+      "emp_id": "Sys-109",
+      "user_name": "john_doe",
+      "email": "john.doe@example.com",
+      "password": "john123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Software Engineer",
+        "mobile_number": "+923456565965"
+      },
+      "address": {
+        "street_address": "123 Main St",
+        "regions": [],
+        "location": "Los Angeles"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Jane Smith",
+        "designation": "Senior Software Engineer",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 10,
+      "emp_id": "Sys-110",
+      "user_name": "jane_smith",
+      "email": "jane.smith@example.com",
+      "password": "jane123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Product Manager",
+        "mobile_number": "+923456565978"
+      },
+      "address": {
+        "street_address": "456 Elm St",
+        "regions": [],
+        "location": "Chicago"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Michael Brown",
+        "designation": "Product Manager",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 11,
+      "emp_id": "Sys-111",
+      "user_name": "alice_wonder",
+      "email": "alice.wonder@example.com",
+      "password": "alice123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Alice",
+        "last_name": "Wonder",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Data Scientist",
+        "mobile_number": "+923456565998"
+      },
+      "address": {
+        "street_address": "789 Oak St",
+        "regions": [],
+        "location": "San Francisco"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "David Johnson",
+        "designation": "Senior Data Scientist",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 12,
+      "emp_id": "Sys-112",
+      "user_name": "john_doe",
+      "email": "john.doe@example.com",
+      "password": "john123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Software Engineer",
+        "mobile_number": "+923456565999"
+      },
+      "address": {
+        "street_address": "123 Elm St",
+        "regions": [],
+        "location": "New York"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Jane Smith",
+        "designation": "Senior Software Engineer",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 13,
+      "emp_id": "Sys-113",
+      "user_name": "jane_smith",
+      "email": "jane.smith@example.com",
+      "password": "jane123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Product Manager",
+        "mobile_number": "+923456565997"
+      },
+      "address": {
+        "street_address": "456 Pine St",
+        "regions": [],
+        "location": "Los Angeles"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Michael Brown",
+        "designation": "Product Manager",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 14,
+      "emp_id": "Sys-114",
+      "user_name": "michael_brown",
+      "email": "michael.brown@example.com",
+      "password": "michael123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Michael",
+        "last_name": "Brown",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "DevOps Engineer",
+        "mobile_number": "+923456565996"
+      },
+      "address": {
+        "street_address": "789 Maple St",
+        "regions": [],
+        "location": "Chicago"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Alice Wonder",
+        "designation": "DevOps Engineer",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 15,
+      "emp_id": "Sys-115",
+      "user_name": "sarah_jones",
+      "email": "sarah.jones@example.com",
+      "password": "sarah123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Sarah",
+        "last_name": "Jones",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "UX Designer",
+        "mobile_number": "+923456565995"
+      },
+      "address": {
+        "street_address": "101 Birch St",
+        "regions": [],
+        "location": "Houston"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "John Doe",
+        "designation": "Senior UX Designer",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 16,
+      "emp_id": "Sys-116",
+      "user_name": "david_johnson",
+      "email": "david.johnson@example.com",
+      "password": "david123",
+      "confirmPassword": "",
+      "status": "Inactive",
+      "personal": {
+        "first_name": "David",
+        "last_name": "Johnson",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Data Engineer",
+        "mobile_number": "+923456565994"
+      },
+      "address": {
+        "street_address": "202 Cedar St",
+        "regions": [],
+        "location": "Phoenix"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Jane Smith",
+        "designation": "Data Engineer",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 17,
+      "emp_id": "Sys-117",
+      "user_name": "lisa_wang",
+      "email": "lisa.wang@example.com",
+      "password": "lisa123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Lisa",
+        "last_name": "Wang",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Frontend Developer",
+        "mobile_number": "+923456565993"
+      },
+      "address": {
+        "street_address": "303 Oak St",
+        "regions": [],
+        "location": "Philadelphia"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Michael Brown",
+        "designation": "Frontend Developer",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 18,
+      "emp_id": "Sys-118",
+      "user_name": "robert_garcia",
+      "email": "robert.garcia@example.com",
+      "password": "robert123",
+      "confirmPassword": "",
+      "status": "Inactive",
+      "personal": {
+        "first_name": "Robert",
+        "last_name": "Garcia",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Backend Developer",
+        "mobile_number": "+923456565992"
+      },
+      "address": {
+        "street_address": "404 Pine St",
+        "regions": [],
+        "location": "San Antonio"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Alice Wonder",
+        "designation": "Backend Developer",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 19,
+      "emp_id": "Sys-118",
+      "user_name": "robert_garcia",
+      "email": "robert.garcia@example.com",
+      "password": "robert123",
+      "confirmPassword": "",
+      "status": "Inactive",
+      "personal": {
+        "first_name": "Robert",
+        "last_name": "Garcia",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Backend Developer",
+        "mobile_number": "+923456565992"
+      },
+      "address": {
+        "street_address": "404 Pine St",
+        "regions": [],
+        "location": "San Antonio"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Alice Wonder",
+        "designation": "Backend Developer",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 20,
+      "emp_id": "Sys-120",
+      "user_name": "daniel_martinez",
+      "email": "daniel.martinez@example.com",
+      "password": "daniel123",
+      "confirmPassword": "",
+      "status": "Inactive",
+      "personal": {
+        "first_name": "Daniel",
+        "last_name": "Martinez",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Full Stack Developer",
+        "mobile_number": "+923456565990"
+      },
+      "address": {
+        "street_address": "606 Maple St",
+        "regions": [],
+        "location": "Dallas"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Jane Smith",
+        "designation": "Full Stack Developer",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 21,
+      "emp_id": "Sys-121",
+      "user_name": "linda_rodriguez",
+      "email": "linda.rodriguez@example.com",
+      "password": "linda123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Linda",
+        "last_name": "Rodriguez",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "HR Manager",
+        "mobile_number": "+923456565989"
+      },
+      "address": {
+        "street_address": "707 Cedar St",
+        "regions": [],
+        "location": "San Jose"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Michael Brown",
+        "designation": "HR Manager",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 22,
+      "emp_id": "Sys-122",
+      "user_name": "james_wilson",
+      "email": "james.wilson@example.com",
+      "password": "james123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "James",
+        "last_name": "Wilson",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "System Administrator",
+        "mobile_number": "+923456565988"
+      },
+      "address": {
+        "street_address": "808 Birch St",
+        "regions": [],
+        "location": "Austin"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Alice Wonder",
+        "designation": "System Administrator",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 23,
+      "emp_id": "Sys-123",
+      "user_name": "patricia_anderson",
+      "email": "patricia.anderson@example.com",
+      "password": "patricia123",
+      "confirmPassword": "",
+      "status": "Inactive",
+      "personal": {
+        "first_name": "Patricia",
+        "last_name": "Anderson",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Business Analyst",
+        "mobile_number": "+923456565987"
+      },
+      "address": {
+        "street_address": "909 Oak St",
+        "regions": [],
+        "location": "Jacksonville"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "John Doe",
+        "designation": "Business Analyst",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 24,
+      "emp_id": "Sys-124",
+      "user_name": "richard_taylor",
+      "email": "richard.taylor@example.com",
+      "password": "richard123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Richard",
+        "last_name": "Taylor",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Network Engineer",
+        "mobile_number": "+923456565986"
+      },
+      "address": {
+        "street_address": "1010 Pine St",
+        "regions": [],
+        "location": "San Francisco"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Jane Smith",
+        "designation": "Network Engineer",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 25,
+      "emp_id": "Sys-125",
+      "user_name": "jennifer_thomas",
+      "email": "jennifer.thomas@example.com",
+      "password": "jennifer123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Jennifer",
+        "last_name": "Thomas",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Marketing Manager",
+        "mobile_number": "+923456565985"
+      },
+      "address": {
+        "street_address": "1111 Maple St",
+        "regions": [],
+        "location": "Columbus"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Michael Brown",
+        "designation": "Marketing Manager",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 26,
+      "emp_id": "Sys-126",
+      "user_name": "charles_moore",
+      "email": "charles.moore@example.com",
+      "password": "charles123",
+      "confirmPassword": "",
+      "status": "Inactive",
+      "personal": {
+        "first_name": "Charles",
+        "last_name": "Moore",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Sales Executive",
+        "mobile_number": "+923456565984"
+      },
+      "address": {
+        "street_address": "1212 Cedar St",
+        "regions": [],
+        "location": "Charlotte"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Alice Wonder",
+        "designation": "Sales Executive",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 27,
+      "emp_id": "Sys-127",
+      "user_name": "mary_jackson",
+      "email": "mary.jackson@example.com",
+      "password": "mary123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Mary",
+        "last_name": "Jackson",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Customer Support",
+        "mobile_number": "+923456565983"
+      },
+      "address": {
+        "street_address": "1313 Elm St",
+        "regions": [],
+        "location": "Indianapolis"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "John Doe",
+        "designation": "Customer Support",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 28,
+      "emp_id": "Sys-128",
+      "user_name": "thomas_white",
+      "email": "thomas.white@example.com",
+      "password": "thomas123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Thomas",
+        "last_name": "White",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Finance Manager",
+        "mobile_number": "+923456565982"
+      },
+      "address": {
+        "street_address": "1414 Pine St",
+        "regions": [],
+        "location": "Seattle"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Jane Smith",
+        "designation": "Finance Manager",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 29,
+      "emp_id": "Sys-129",
+      "user_name": "susan_harris",
+      "email": "susan.harris@example.com",
+      "password": "susan123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Susan",
+        "last_name": "Harris",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Legal Advisor",
+        "mobile_number": "+923456565981"
+      },
+      "address": {
+        "street_address": "1515 Oak St",
+        "regions": [],
+        "location": "Denver"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Michael Brown",
+        "designation": "Legal Advisor",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 30,
+      "emp_id": "Sys-130",
+      "user_name": "joseph_martin",
+      "email": "joseph.martin@example.com",
+      "password": "joseph123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Joseph",
+        "last_name": "Martin",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Security Analyst",
+        "mobile_number": "+923456565980"
+      },
+      "address": {
+        "street_address": "1616 Maple St",
+        "regions": [],
+        "location": "Washington"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Alice Wonder",
+        "designation": "Security Analyst",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-02-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "id": 31,
+      "emp_id": "Sys-131",
+      "user_name": "margaret_thompson",
+      "email": "margaret.thompson@example.com",
+      "password": "margaret123",
+      "confirmPassword": "",
+      "status": "Inactive",
+      "personal": {
+        "first_name": "Margaret",
+        "last_name": "Thompson",
+        "gender": "Male",
+        "date_of_birth": "2025-01-31",
+        "about_us": "Content Writer",
+        "mobile_number": "+923456565979"
+      },
+      "address": {
+        "street_address": "1717 Cedar St",
+        "location": "Boston"
+      },
+      "profile": {
+        "department": "Digital Consultancy",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "John Doe",
+        "designation": "Content Writer",
+        "project_name": [
+          "UAE Project",
+          "E-commerce Platform"
+        ],
+        "regions": "SYs",
+        "joining_date": "2025-01-31",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+      }
+    },
+    {
+      "emp_id": "Empl-031",
+      "email": "furqancsit@gmail.com",
+      "user_name": "admin",
+      "status": "Active",
+      "password": "admin",
+      "personal": {
+        "first_name": "furqan",
+        "last_name": "Zamir",
+        "gender": "Male",
+        "date_of_birth": "2025-02-25",
+        "about_us": "asd",
+        "mobile_number": "03463310882"
+      },
+      "address": {
+        "street_address": "R-330/19 F.B Area Karachi Pakistan",
+        "regions": [
+          "UAE",
+          "USA",
+          "UK",
+          "Canada",
+          "Australia",
+          "Germany"
+        ],
+        "location": "Karachi",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          },
+          {
+            "label": "Healthcare App",
+            "value": "Healthcare App",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ],
+        "postal_code": "75950"
+      },
+      "profile": {
+        "department": "Finance",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "Furqan Zamir",
+        "designation": "Senior frontend Developer",
+        "project_name": [
+          "E-commerce Platform",
+          "Healthcare App"
+        ],
+        "joining_date": "2025-02-25",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png",
+        "regions": [
+          {
+            "label": "UAE",
+            "value": "UAE",
+            "selected": true
+          },
+          {
+            "label": "USA",
+            "value": "USA",
+            "selected": false
+          },
+          {
+            "label": "UK",
+            "value": "UK",
+            "selected": false
+          },
+          {
+            "label": "Canada",
+            "value": "Canada",
+            "selected": false
+          },
+          {
+            "label": "Australia",
+            "value": "Australia",
+            "selected": false
+          },
+          {
+            "label": "Germany",
+            "value": "Germany",
+            "selected": false
+          }
+        ]
+      },
+      "id": 32
+    },
+    {
+      "emp_id": "Empl-032",
+      "email": "furqancsit@gmail.com",
+      "user_name": "asd",
+      "status": "Active",
+      "password": "asdsa",
+      "personal": {
+        "first_name": "furqan",
+        "last_name": "Zamir",
+        "gender": "Male",
+        "date_of_birth": "2025-02-25",
+        "about_us": "asdsa",
+        "mobile_number": "03463310882"
+      },
+      "address": {
+        "street_address": "R-330/19 F.B Area Karachi Pakistan",
+        "regions": [
+          "UAE",
+          "UK"
+        ],
+        "location": "Karachi",
+        "postal_code": "75950",
+        "project_name": [
+          {
+            "label": "UAE Project",
+            "value": "UAE Project",
+            "selected": false
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          },
+          {
+            "label": "0.5",
+            "value": "0.5",
+            "selected": true
+          },
+          {
+            "label": "0.25",
+            "value": "0.25",
+            "selected": true
+          },
+          {
+            "label": "0",
+            "value": "0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "CRM",
+        "billing": [
+          "1.0",
+          "0.5",
+          "0.25",
+          "0"
+        ],
+        "manager": "Furqan Zamir",
+        "designation": "ReactJS Developer",
+        "project_name": [
+          "UAE Project"
+        ],
+        "joining_date": "2025-02-25",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png",
+        "regions": [
+          {
+            "label": "UAE",
+            "value": "UAE",
+            "selected": false
+          },
+          {
+            "label": "UK",
+            "value": "UK",
+            "selected": false
+          }
+        ]
+      },
+      "id": 33
+    }
+  ],
+  "Department": [
+    {
+      "id": 1,
+      "dept_name": "CRM",
+      "manager_name": "Khurram",
+      "no_of_employee": "100",
+      "created_date": "2025-02-27"
+    },
+    {
+      "id": 2,
+      "dept_name": "Finance",
+      "manager_name": "Ayesha Khan",
+      "no_of_employee": "100",
+      "created_date": "2025-02-06"
+    },
+    {
+      "id": 3,
+      "dept_name": "IT Support",
+      "manager_name": "John Doe",
+      "no_of_employee": "100",
+      "created_date": "2025-02-07"
+    },
+    {
+      "id": 4,
+      "dept_name": "Marketing",
+      "manager_name": "Sarah Ali",
+      "no_of_employee": "100",
+      "created_date": "2025-02-08"
+    },
+    {
+      "id": 5,
+      "dept_name": "HR",
+      "manager_name": "Michael Smith",
+      "no_of_employee": "100",
+      "created_date": "2025-02-09"
+    },
+    {
+      "id": 6,
+      "dept_name": "Operations",
+      "manager_name": "Lisa Brown",
+      "no_of_employee": "100",
+      "created_date": "2025-02-10"
+    },
+    {
+      "id": 7,
+      "dept_name": "Sales",
+      "manager_name": "David Wilson",
+      "no_of_employee": "100",
+      "created_date": "2025-02-11"
+    },
+    {
+      "id": 8,
+      "dept_name": "Legal",
+      "manager_name": "Sophia Martinez",
+      "no_of_employee": "100",
+      "created_date": "2025-02-12"
+    },
+    {
+      "id": 9,
+      "dept_name": "Customer Service",
+      "manager_name": "James Anderson",
+      "no_of_employee": "100",
+      "created_date": "2025-02-13"
+    },
+    {
+      "id": 10,
+      "dept_name": "R&D",
+      "manager_name": "Emily Johnson",
+      "no_of_employee": "100",
+      "created_date": "2025-02-14"
+    },
+    {
+      "id": 11,
+      "dept_name": "Digital Department ",
+      "manager_name": "Furqan Zamir",
+      "no_of_employee": "100",
+      "created_date": "2025-02-21"
+    },
+    {
+      "id": 12,
+      "dept_name": "Furqan Zamir",
+      "manager_name": "Furqan Zamir Ahmed",
+      "created_date": "2025-02-04",
+      "no_of_employee": "80"
+    },
+    {
+      "id": 13,
+      "dept_name": "Furqan Studio",
+      "manager_name": "Ayesha Khan",
+      "created_date": "2025-02-04",
+      "managers_name": "Furqan Zamir",
+      "no_of_employee": "80"
+    }
+  ],
+  "Client": [
+    {
+      "id": 1,
+      "client_name": "Furqan Studio b2b",
+      "contact_person": "Muhammad Shahbaz",
+      "client_email": "mshahbaz@abv.com",
+      "client_phone": "054215545898",
+      "client_address": "sharjah_Furqan Studio_building",
+      "client_designation": "CEO",
+      "client_status": "Active",
+      "created_at": "2025-02-26",
+      "updated_at": "2025-02-04"
+    },
+    {
+      "id": 2,
+      "client_name": "Du Telecom",
+      "contact_person": "Ahmed Raza",
+      "client_email": "ahmed.raza@du.com",
+      "client_phone": "05541236589",
+      "client_address": "dubai_du_office",
+      "client_designation": "CEO",
+      "client_status": "Inactive",
+      "created_at": "2025-02-10",
+      "updated_at": "2025-02-15"
+    },
+    {
+      "id": 3,
+      "client_name": "TC Mobile",
+      "contact_person": "Hassan Ali",
+      "client_email": "hassan.ali@TC.ae",
+      "client_phone": "05078965412",
+      "client_address": "abu_dhabi_TC_tower",
+      "client_designation": "CEO",
+      "client_status": "Active",
+      "created_at": "2025-01-20",
+      "updated_at": "2025-02-12"
+    },
+    {
+      "id": 4,
+      "client_name": "SmartHub",
+      "contact_person": "Samiullah Khan",
+      "client_email": "sami.khan@smarthub.ae",
+      "client_phone": "05698741236",
+      "client_address": "dubai_smarthub_center",
+      "client_designation": "CEO",
+      "client_status": "Active",
+      "created_at": "2025-02-05",
+      "updated_at": "2025-02-10"
+    },
+    {
+      "id": 5,
+      "client_name": "MTN UAE",
+      "contact_person": "Bilal Akhtar",
+      "client_email": "bilal.akhtar@mtn.ae",
+      "client_phone": "05896321478",
+      "client_address": "sharjah_mtn_office",
+      "client_designation": "CEO",
+      "client_status": "Active",
+      "created_at": "2025-02-01",
+      "updated_at": "2025-02-11"
+    },
+    {
+      "id": 6,
+      "client_name": "Ooredoo",
+      "contact_person": "Fahad Khan",
+      "client_email": "fahad.khan@ooredoo.ae",
+      "client_phone": "05247123698",
+      "client_address": "abu_dhabi_ooredoo_plaza",
+      "client_designation": "CEO",
+      "client_status": "Active",
+      "created_at": "2025-01-30",
+      "updated_at": "2025-02-08"
+    },
+    {
+      "id": 7,
+      "client_name": "STC UAE",
+      "contact_person": "Zahid Hussain",
+      "client_email": "zahid.hussain@stc.ae",
+      "client_phone": "05641237895",
+      "client_address": "dubai_stc_office",
+      "client_designation": "CEO",
+      "client_status": "Active",
+      "created_at": "2025-02-07",
+      "updated_at": "2025-02-12"
+    },
+    {
+      "id": 8,
+      "client_name": "Mobily",
+      "contact_person": "Asad Mehmood",
+      "client_email": "asad.mehmood@mobily.ae",
+      "client_phone": "05021456987",
+      "client_address": "sharjah_mobily_tower",
+      "client_designation": "CEO",
+      "client_status": "Active",
+      "created_at": "2025-01-28",
+      "updated_at": "2025-02-06"
+    },
+    {
+      "id": 9,
+      "client_name": "Zain UAE",
+      "contact_person": "Tariq Aziz",
+      "client_email": "tariq.aziz@zain.ae",
+      "client_phone": "05369874125",
+      "client_address": "abu_dhabi_zain_office",
+      "client_designation": "CEO",
+      "client_status": "Active",
+      "created_at": "2025-02-02",
+      "updated_at": "2025-02-09"
+    },
+    {
+      "id": 10,
+      "client_name": "5G Solutions",
+      "contact_person": "Imran Haider",
+      "client_email": "imran.haider@5gsolutions.ae",
+      "client_phone": "05741236985",
+      "client_address": "dubai_5g_center",
+      "client_designation": "CEO",
+      "client_status": "Active",
+      "created_at": "2025-02-09",
+      "updated_at": "2025-02-13"
+    },
+    {
+      "id": 11,
+      "client_name": "Telenore",
+      "contact_person": "furqan Zamir",
+      "client_email": "furqancsit@gmail.com",
+      "client_phone": "03463310882",
+      "client_address": "R-330/19 F.B Area Karachi Pakistan",
+      "client_designation": "CEO",
+      "client_status": "Active",
+      "created_at": "2025-02-27",
+      "updated_at": "2025-02-27",
+      "currentdate": "2025-02-19",
+      "status": "Active"
+    },
+    {
+      "id": 12,
+      "client_name": "Furqan Zamir",
+      "contact_person": "Furqan",
+      "client_email": "fzamir@gmai.com",
+      "client_phone": "045454545654",
+      "client_address": "abv-1236",
+      "client_designation": "CEO",
+      "client_status": "Active",
+      "created_at": "2025-02-19",
+      "updated_at": "2025-02-24"
+    },
+    {
+      "id": 13,
+      "client_name": "Furqan Zamir",
+      "contact_person": "furqan Zamir",
+      "client_email": "furqancsit@gmail.com",
+      "client_phone": "03463310882",
+      "client_address": "R-330/19 F.B Area Karachi Pakistan",
+      "client_designation": "CEO",
+      "client_status": "Active",
+      "created_at": "2025-02-28T11:06:01.949Z",
+      "updated_at": "2025-02-25"
+    }
+  ],
+  "Stack": [
+    {
+      "id": 1,
+      "stack_name": "React",
+      "created_at": "2025-02-25T09:05:21.398Z"
+    },
+    {
+      "id": 2,
+      "stack_name": "Angular",
+      "created_at": "2025-02-25T09:10:51.581Z"
+    },
+    {
+      "id": 4,
+      "stack_name": "Express JS",
+      "created_at": "2025-02-26T13:48:14.565Z"
+    },
+    {
+      "id": 5,
+      "stack_name": "Wordpress",
+      "created_at": "2025-02-27T13:48:20.866Z"
+    },
+    {
+      "id": 6,
+      "stack_name": "UI UX",
+      "created_at": "2025-02-28T14:29:39.750Z"
+    },
+    {
+      "id": 7,
+      "stack_name": "UI",
+      "created_at": "2025-02-28T14:29:49.424Z"
+    },
+    {
+      "id": 8,
+      "stack_name": "Design Strategy",
+      "created_at": "2025-02-28T14:29:55.804Z"
+    }
+  ],
+  "Project": [
+    {
+      "project_id": "Proj-01",
+      "project_name": "E-commerce Platform",
+      "project_logo": "",
+      "client_name": "Tech Innovators",
+      "start_date": "2025-02-15",
+      "end_date": "2025-08-30",
+      "priority": "Medium",
+      "project_value": "50000",
+      "price_type": "USD",
+      "project_description": "Developing a scalable e-commerce platform.",
+      "upload_docs": "",
+      "team_member": [
+        "Alice Johnson",
+        "Bob Williams",
+        "Charlie Smith"
+      ],
+      "project_manager": "David Brown",
+      "project_status": "Active",
+      "id": 1
+    },
+    {
+      "project_id": "Proj-02",
+      "project_name": "Social Media App",
+      "project_logo": "",
+      "client_name": "5G Solutions",
+      "start_date": "2025-02-20",
+      "end_date": "2025-02-25",
+      "priority": "High",
+      "project_value": "25000",
+      "price_type": "Daram",
+      "project_description": "Building a social networking app.",
+      "upload_docs": "",
+      "team_member": [
+        "Furqan Zamir",
+        "Peter",
+        "Natasha"
+      ],
+      "project_manager": "Ayesha Khan",
+      "project_status": "Inactive",
+      "id": 2
+    },
+    {
+      "project_id": "Proj-03",
+      "project_name": "AI Chatbot",
+      "project_logo": "",
+      "client_name": "Smart AI Solutions",
+      "start_date": "2025-03-01",
+      "end_date": "2025-06-30",
+      "priority": "High",
+      "project_value": "40000",
+      "price_type": "USD",
+      "project_description": "Developing an AI chatbot for customer support.",
+      "upload_docs": "",
+      "team_member": [
+        "Sophia Lee",
+        "Michael Chen"
+      ],
+      "project_manager": "James Carter",
+      "project_status": "Active",
+      "id": 3
+    },
+    {
+      "project_id": "Proj-04",
+      "project_name": "Banking App",
+      "project_logo": "",
+      "client_name": "FinTech Ltd.",
+      "start_date": "2025-04-10",
+      "end_date": "2025-12-15",
+      "priority": "Critical",
+      "project_value": "75000",
+      "price_type": "USD",
+      "project_description": "A secure banking application with real-time transactions.",
+      "upload_docs": "",
+      "team_member": [
+        "Liam Green",
+        "Emma Watson"
+      ],
+      "project_manager": "Olivia Parker",
+      "project_status": "Planned",
+      "id": 4
+    },
+    {
+      "project_id": "Proj-05",
+      "project_name": "Healthcare Portal",
+      "project_logo": "",
+      "client_name": "MediTech Solutions",
+      "start_date": "2025-05-01",
+      "end_date": "2025-11-01",
+      "priority": "High",
+      "project_value": "60000",
+      "price_type": "USD",
+      "project_description": "Developing a telemedicine healthcare platform.",
+      "upload_docs": "",
+      "team_member": [
+        "Daniel Scott",
+        "Sophia King"
+      ],
+      "project_manager": "Henry Adams",
+      "project_status": "Active",
+      "id": 5
+    },
+    {
+      "project_id": "Proj-06",
+      "project_name": "E-learning Platform",
+      "project_logo": "",
+      "client_name": "EduTech Hub",
+      "start_date": "2025-06-15",
+      "end_date": "2025-10-30",
+      "priority": "Medium",
+      "project_value": "35000",
+      "price_type": "USD",
+      "project_description": "An online education platform with live classes.",
+      "upload_docs": "",
+      "team_member": [
+        "Olivia White",
+        "Jack Brown"
+      ],
+      "project_manager": "Ethan Wilson",
+      "project_status": "Active",
+      "id": 6
+    },
+    {
+      "project_id": "Proj-07",
+      "project_name": "Cloud Storage Solution",
+      "project_logo": "",
+      "client_name": "CloudSync Inc.",
+      "start_date": "2025-07-01",
+      "end_date": "2026-01-01",
+      "priority": "High",
+      "project_value": "90000",
+      "price_type": "USD",
+      "project_description": "Developing a cloud-based file storage system.",
+      "upload_docs": "",
+      "team_member": [
+        "Mia Johnson",
+        "Lucas Evans"
+      ],
+      "project_manager": "Noah Martinez",
+      "project_status": "Planned",
+      "id": 7
+    },
+    {
+      "project_id": "Proj-08",
+      "project_name": "Smart Home Automation",
+      "project_logo": "",
+      "client_name": "IoT Innovations",
+      "start_date": "2025-08-20",
+      "end_date": "2026-02-20",
+      "priority": "Critical",
+      "project_value": "120000",
+      "price_type": "USD",
+      "project_description": "Developing IoT solutions for home automation.",
+      "upload_docs": "",
+      "team_member": [
+        "Ethan Clarke",
+        "Charlotte Lewis"
+      ],
+      "project_manager": "William Anderson",
+      "project_status": "Active",
+      "id": 8
+    },
+    {
+      "project_id": "Proj-09",
+      "project_name": "Cybersecurity Platform",
+      "project_logo": "",
+      "client_name": "SecureTech",
+      "start_date": "2025-09-15",
+      "end_date": "2026-03-15",
+      "priority": "High",
+      "project_value": "80000",
+      "price_type": "USD",
+      "project_description": "A security monitoring and threat detection platform.",
+      "upload_docs": "",
+      "team_member": [
+        "Harper Adams",
+        "Mason Brooks"
+      ],
+      "project_manager": "Isabella Robinson",
+      "project_status": "Active",
+      "id": 9
+    },
+    {
+      "project_id": "Proj-10",
+      "project_name": "Blockchain Payment System",
+      "project_logo": "",
+      "client_name": "CryptoFin",
+      "start_date": "2025-10-01",
+      "end_date": "2026-04-01",
+      "priority": "Critical",
+      "project_value": "150000",
+      "price_type": "USD",
+      "project_description": "Developing a secure blockchain-based payment solution.",
+      "upload_docs": "",
+      "team_member": [
+        "Benjamin Carter",
+        "Ava Reynolds"
+      ],
+      "project_manager": "Michael Foster",
+      "project_status": "Planned",
+      "id": 10
+    }
+  ],
+  "Designation": [
+    {
+      "id": 1,
+      "designation_name": "Senior frontend Developer",
+      "created_at": "2025-02-25T09:05:21.398Z"
+    },
+    {
+      "id": 2,
+      "designation_name": "Junior frontend Developer",
+      "created_at": "2025-02-25T17:24:37.611Z"
+    },
+    {
+      "id": 3,
+      "designation_name": "Principle Consultant Developer",
+      "created_at": "2025-02-25T18:37:07.956Z"
+    },
+    {
+      "id": 4,
+      "designation_name": "Lead Frontend Developer",
+      "created_at": "2025-02-26T08:15:45.123Z"
+    },
+    {
+      "id": 5,
+      "designation_name": "UI/UX Engineer",
+      "created_at": "2025-02-26T10:22:30.456Z"
+    },
+    {
+      "id": 6,
+      "designation_name": "Software Engineer Frontend",
+      "created_at": "2025-02-26T12:48:19.789Z"
+    },
+    {
+      "id": 7,
+      "designation_name": "ReactJS Developer",
+      "created_at": "2025-02-26T14:05:55.987Z"
+    },
+    {
+      "id": 8,
+      "designation_name": "Frontend Architect",
+      "created_at": "2025-02-26T16:30:12.654Z"
+    }
+  ],
+  "Regions": [
+    {
+      "id": 1,
+      "regions_name": "UAE",
+      "created_at": "2025-02-26T13:08:21.229Z"
+    },
+    {
+      "id": 2,
+      "regions_name": "USA",
+      "created_at": "2025-02-26T14:10:35.123Z"
+    },
+    {
+      "id": 3,
+      "regions_name": "UK",
+      "created_at": "2025-02-26T15:22:47.456Z"
+    },
+    {
+      "id": 4,
+      "regions_name": "Canada",
+      "created_at": "2025-02-26T16:35:59.789Z"
+    },
+    {
+      "id": 5,
+      "regions_name": "Australia",
+      "created_at": "2025-02-26T17:48:12.987Z"
+    },
+    {
+      "id": 6,
+      "regions_name": "Germany",
+      "created_at": "2025-02-26T18:55:25.654Z"
+    }
+  ],
+  "Locations": [
+    {
+      "id": 1,
+      "locations_name": "Karachi",
+      "created_at": "2025-02-26T13:08:21.229Z"
+    },
+    {
+      "id": 2,
+      "locations_name": "Lahore",
+      "created_at": "2025-02-26T13:13:34.742Z"
+    },
+    {
+      "id": 3,
+      "locations_name": "Islamabad",
+      "created_at": "2025-02-26T13:20:45.123Z"
+    },
+    {
+      "id": 4,
+      "locations_name": "Faisalabad",
+      "created_at": "2025-02-26T13:30:12.456Z"
+    },
+    {
+      "id": 5,
+      "locations_name": "Rawalpindi",
+      "created_at": "2025-02-26T13:40:55.789Z"
+    },
+    {
+      "id": 6,
+      "locations_name": "Multan",
+      "created_at": "2025-02-26T13:50:22.987Z"
+    },
+    {
+      "id": 7,
+      "locations_name": "Peshawar",
+      "created_at": "2025-02-26T14:05:38.654Z"
+    }
+  ],
+  "Managers": [
+    {
+      "id": 1,
+      "managers_name": "Furqan Zamir",
+      "role": "Admin",
+      "created_at": "2025-02-26T13:08:21.229Z"
+    },
+    {
+      "id": 2,
+      "managers_name": "Faisal ",
+      "role": "Super Admin",
+      "created_at": "2025-02-26T13:27:52.528Z"
+    },
+    {
+      "id": 3,
+      "managers_name": "Ayesha Khan",
+      "role": "Manager",
+      "created_at": "2025-02-26T13:35:15.123Z"
+    },
+    {
+      "id": 4,
+      "managers_name": "Zain Malik",
+      "role": "Admin",
+      "created_at": "2025-02-26T13:45:30.456Z"
+    },
+    {
+      "id": 5,
+      "managers_name": "Bilal Qureshi",
+      "role": "Super Admin",
+      "created_at": "2025-02-26T13:55:45.789Z"
+    },
+    {
+      "id": 6,
+      "managers_name": "Sarah Ahmed",
+      "role": "Manager",
+      "created_at": "2025-02-26T14:10:22.987Z"
+    },
+    {
+      "id": 7,
+      "managers_name": "Naveed Khan",
+      "role": "Admin",
+      "created_at": "2025-02-26T14:25:38.654Z"
+    }
+  ],
+  "Manage_Event": [
+    {
+      "id": 1,
+      "event_name": "Annual Picnic",
+      "start_date": "2025-02-04",
+      "end_date": "2025-02-05",
+      "event_description": "Enjoy the party"
+    },
+    {
+      "id": 2,
+      "event_name": "Tech Conference",
+      "start_date": "2025-03-10",
+      "end_date": "2025-03-12",
+      "event_description": "A gathering of tech enthusiasts and professionals."
+    },
+    {
+      "id": 3,
+      "event_name": "Charity Run",
+      "start_date": "2025-04-15",
+      "end_date": "2025-04-15",
+      "event_description": "Join us in running for a cause!"
+    },
+    {
+      "id": 4,
+      "event_name": "Music Festival",
+      "start_date": "2025-06-20",
+      "end_date": "2025-06-22",
+      "event_description": "Experience live performances from top artists."
+    },
+    {
+      "id": 5,
+      "event_name": "Business Summit",
+      "start_date": "2025-09-05",
+      "end_date": "2025-09-07",
+      "event_description": "Networking and keynote sessions from industry leaders."
+    },
+    {
+      "id": 6,
+      "event_name": "Art Exhibition",
+      "start_date": "2025-11-11",
+      "end_date": "2025-11-13",
+      "event_description": "Showcasing masterpieces from contemporary artists."
+    }
+  ]
+}
