@@ -1633,7 +1633,7 @@
       "project_id": "Proj-01",
       "project_name": "E-commerce Platform",
       "project_logo": "",
-      "client_name": "Tech Innovators",
+      "client_name": "Telenore",
       "start_date": "2025-02-15",
       "end_date": "2025-08-30",
       "priority": "Medium",
@@ -1642,9 +1642,11 @@
       "project_description": "Developing a scalable e-commerce platform.",
       "upload_docs": "",
       "team_member": [
-        "Alice Johnson",
-        "Bob Williams",
-        "Charlie Smith"
+        "Furqan Zamir Ahmed"
+      ],
+      "team_lead": [
+        "Jane",
+        "Peter"
       ],
       "project_manager": "David Brown",
       "project_status": "Active",
@@ -1663,9 +1665,16 @@
       "project_description": "Building a social networking app.",
       "upload_docs": "",
       "team_member": [
-        "Furqan Zamir",
         "Peter",
-        "Natasha"
+        "Tony",
+        "Natasha",
+        "Furqan"
+      ],
+      "team_lead": [
+        "Peter",
+        "Tony",
+        "Natasha",
+        "Furqan"
       ],
       "project_manager": "Ayesha Khan",
       "project_status": "Inactive",
@@ -1684,8 +1693,11 @@
       "project_description": "Developing an AI chatbot for customer support.",
       "upload_docs": "",
       "team_member": [
-        "Sophia Lee",
-        "Michael Chen"
+        "Natasha",
+        "John"
+      ],
+      "team_lead": [
+        "Jane"
       ],
       "project_manager": "James Carter",
       "project_status": "Active",
@@ -1707,6 +1719,9 @@
         "Liam Green",
         "Emma Watson"
       ],
+      "team_lead": [
+        "furqan zamir"
+      ],
       "project_manager": "Olivia Parker",
       "project_status": "Planned",
       "id": 4
@@ -1724,10 +1739,16 @@
       "project_description": "Developing a telemedicine healthcare platform.",
       "upload_docs": "",
       "team_member": [
-        "Daniel Scott",
-        "Sophia King"
+        "Bruce",
+        "Furqan",
+        "John"
       ],
-      "project_manager": "Henry Adams",
+      "team_lead": [
+        "Alice",
+        "Michael",
+        "Sarah"
+      ],
+      "project_manager": "Furqan Zamir",
       "project_status": "Active",
       "id": 5
     },
@@ -1744,8 +1765,11 @@
       "project_description": "An online education platform with live classes.",
       "upload_docs": "",
       "team_member": [
-        "Olivia White",
-        "Jack Brown"
+        "David",
+        "Robert"
+      ],
+      "team_lead": [
+        "Thomas"
       ],
       "project_manager": "Ethan Wilson",
       "project_status": "Active",
@@ -1764,8 +1788,13 @@
       "project_description": "Developing a cloud-based file storage abc.",
       "upload_docs": "",
       "team_member": [
-        "Mia Johnson",
-        "Lucas Evans"
+        "Jane",
+        "David",
+        "Lisa"
+      ],
+      "team_lead": [
+        "Natasha",
+        "Furqan"
       ],
       "project_manager": "Noah Martinez",
       "project_status": "Planned",
@@ -1775,7 +1804,7 @@
       "project_id": "Proj-08",
       "project_name": "Smart Home Automation",
       "project_logo": "",
-      "client_name": "IoT Innovations",
+      "client_name": "Zain UAE",
       "start_date": "2025-08-20",
       "end_date": "2026-02-20",
       "priority": "Critical",
@@ -1784,8 +1813,12 @@
       "project_description": "Developing IoT solutions for home automation.",
       "upload_docs": "",
       "team_member": [
-        "Ethan Clarke",
-        "Charlotte Lewis"
+        "Daniel",
+        "Tony",
+        "Jane"
+      ],
+      "team_lead": [
+        "Furqan Zamir Ahmed"
       ],
       "project_manager": "William Anderson",
       "project_status": "Active",
@@ -1804,10 +1837,15 @@
       "project_description": "A security monitoring and threat detection platform.",
       "upload_docs": "",
       "team_member": [
-        "Harper Adams",
-        "Mason Brooks"
+        "Margaret",
+        "Joseph",
+        "Susan",
+        "Mary"
       ],
-      "project_manager": "Isabella Robinson",
+      "team_lead": [
+        "Furqan"
+      ],
+      "project_manager": "Naveed Khan",
       "project_status": "Active",
       "id": 9
     },
@@ -1824,12 +1862,63 @@
       "project_description": "Developing a secure blockchain-based payment solution.",
       "upload_docs": "",
       "team_member": [
-        "Benjamin Carter",
-        "Ava Reynolds"
+        "Furqan Zamir Ahmed",
+        "Jane",
+        "Peter",
+        "Bruce"
       ],
-      "project_manager": "Michael Foster",
-      "project_status": "Planned",
+      "team_lead": [
+        "Bruce"
+      ],
+      "project_manager": "Furqan Zamir",
+      "project_status": "Active",
       "id": 10
+    },
+    {
+      "project_id": "Proj-011",
+      "project_name": "test",
+      "project_logo": "",
+      "client_name": "Furqan Zamir",
+      "start_date": "2025-03-18",
+      "end_date": "2025-03-25",
+      "priority": "High",
+      "project_value": "5855588",
+      "price_type": "$",
+      "project_description": "test",
+      "upload_docs": "",
+      "team_member": [
+        "Furqan Zamir Ahmed"
+      ],
+      "team_lead": [
+        "Peter"
+      ],
+      "project_manager": "Bilal Qureshi",
+      "project_status": "Active",
+      "id": 11
+    },
+    {
+      "project_id": "Proj-012",
+      "project_name": "Social Media",
+      "project_logo": "",
+      "client_name": "Mobily",
+      "start_date": "2025-03-26",
+      "end_date": "2025-03-26",
+      "priority": "High",
+      "project_value": "25000",
+      "price_type": "Daram",
+      "project_description": "test",
+      "upload_docs": "",
+      "team_member": [
+        "Jane",
+        "Peter",
+        "Natasha"
+      ],
+      "team_lead": [
+        "John"
+      ],
+      "project_manager": "Furqan Zamir",
+      "project_status": "Active",
+      "id": 12
     }
   ],
   "Designation": [
