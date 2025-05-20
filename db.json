@@ -53,7 +53,7 @@
           {
             "label": "UAE",
             "value": "UAE",
-            "selected": false
+            "selected": true
           }
         ]
       }
@@ -77,7 +77,26 @@
       "address": {
         "street_address": "789 Oak Street",
         "regions": [],
-        "location": "Islamabad"
+        "location": "Islamabad",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "0.5",
+            "value": "0.5",
+            "selected": true
+          },
+          {
+            "label": "0.25",
+            "value": "0.25",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -87,10 +106,9 @@
           "0.25"
         ],
         "manager": "Michael Scott",
-        "designation": "UI/UX Designer",
+        "designation": "Junior frontend Developer",
         "project_name": [
-          "E-commerce Platform",
-          "UAE Project"
+          "E-commerce Platform"
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
@@ -116,7 +134,21 @@
       "address": {
         "street_address": "31st Street",
         "regions": [],
-        "location": "Queens"
+        "location": "Queens",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "0.5",
+            "value": "0.5",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -125,9 +157,8 @@
           "0.5"
         ],
         "manager": "Tony Stark",
-        "designation": "Frontend Developer",
+        "designation": "FullStack Developer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -154,7 +185,21 @@
       "address": {
         "street_address": "10880 Malibu Point",
         "regions": [],
-        "location": "Malibu"
+        "location": "Malibu",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -163,9 +208,8 @@
           "1.0"
         ],
         "manager": "Pepper Potts",
-        "designation": "CEO",
+        "designation": "Lead Frontend Developer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -192,7 +236,21 @@
       "address": {
         "street_address": "Wayne Manor",
         "regions": [],
-        "location": "Gotham"
+        "location": "Gotham",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -201,9 +259,8 @@
           "1.0"
         ],
         "manager": "Alfred Pennyworth",
-        "designation": "Head of Security",
+        "designation": "Junior frontend Developer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -230,7 +287,21 @@
       "address": {
         "street_address": "SHIELD HQ",
         "regions": [],
-        "location": "Washington"
+        "location": "Washington",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -239,9 +310,8 @@
           "1.0"
         ],
         "manager": "Nick Fury",
-        "designation": "Field Agent",
+        "designation": "UI/UX Engineer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -268,7 +338,21 @@
       "address": {
         "street_address": "724th Street",
         "regions": [],
-        "location": "New York"
+        "location": "New York",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -277,9 +361,8 @@
           "1.0"
         ],
         "manager": "Furqan zamir",
-        "designation": "Senior Frontend Developer",
+        "designation": "Software Engineer Frontend",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -344,7 +427,21 @@
       "address": {
         "street_address": "456 Elm St",
         "regions": [],
-        "location": "Chicago"
+        "location": "Chicago",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -353,9 +450,8 @@
           "1.0"
         ],
         "manager": "Michael Brown",
-        "designation": "Product Manager",
+        "designation": "ReactJS Developer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -382,7 +478,21 @@
       "address": {
         "street_address": "789 Oak St",
         "regions": [],
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -391,9 +501,8 @@
           "1.0"
         ],
         "manager": "David Johnson",
-        "designation": "Senior Data Scientist",
+        "designation": "Frontend Architect",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -420,7 +529,21 @@
       "address": {
         "street_address": "123 Elm St",
         "regions": [],
-        "location": "New York"
+        "location": "New York",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -429,9 +552,8 @@
           "1.0"
         ],
         "manager": "Jane Smith",
-        "designation": "Senior Software Engineer",
+        "designation": "Senior frontend Developer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -458,7 +580,21 @@
       "address": {
         "street_address": "456 Pine St",
         "regions": [],
-        "location": "Los Angeles"
+        "location": "Los Angeles",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -467,9 +603,8 @@
           "1.0"
         ],
         "manager": "Michael Brown",
-        "designation": "Product Manager",
+        "designation": "Junior frontend Developer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -496,7 +631,21 @@
       "address": {
         "street_address": "789 Maple St",
         "regions": [],
-        "location": "Chicago"
+        "location": "Chicago",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -505,9 +654,8 @@
           "1.0"
         ],
         "manager": "Alice Wonder",
-        "designation": "DevOps Engineer",
+        "designation": "FullStack Developer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -526,7 +674,7 @@
       "personal": {
         "first_name": "Sarah",
         "last_name": "Jones",
-        "gender": "Male",
+        "gender": "Female",
         "date_of_birth": "2025-02-26",
         "about_us": "UX Designer",
         "mobile_number": "+923456565995"
@@ -534,7 +682,21 @@
       "address": {
         "street_address": "101 Birch St",
         "regions": [],
-        "location": "Houston"
+        "location": "Houston",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -545,7 +707,6 @@
         "manager": "John Doe",
         "designation": "Senior UX Designer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -572,7 +733,21 @@
       "address": {
         "street_address": "202 Cedar St",
         "regions": [],
-        "location": "Phoenix"
+        "location": "Phoenix",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -581,9 +756,8 @@
           "1.0"
         ],
         "manager": "Jane Smith",
-        "designation": "Data Engineer",
+        "designation": "UI/UX Engineer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -686,7 +860,21 @@
       "address": {
         "street_address": "404 Pine St",
         "regions": [],
-        "location": "San Antonio"
+        "location": "San Antonio",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -695,9 +883,8 @@
           "1.0"
         ],
         "manager": "Alice Wonder",
-        "designation": "Backend Developer",
+        "designation": "ReactJS Developer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -724,7 +911,21 @@
       "address": {
         "street_address": "606 Maple St",
         "regions": [],
-        "location": "Dallas"
+        "location": "Dallas",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -733,9 +934,8 @@
           "1.0"
         ],
         "manager": "Jane Smith",
-        "designation": "Full Stack Developer",
+        "designation": "Junior frontend Developer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -754,7 +954,7 @@
       "personal": {
         "first_name": "Linda",
         "last_name": "Rodriguez",
-        "gender": "Male",
+        "gender": "Female",
         "date_of_birth": "2025-02-26",
         "about_us": "HR Manager",
         "mobile_number": "+923456565989"
@@ -762,7 +962,21 @@
       "address": {
         "street_address": "707 Cedar St",
         "regions": [],
-        "location": "San Jose"
+        "location": "San Jose",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -771,9 +985,8 @@
           "1.0"
         ],
         "manager": "Michael Brown",
-        "designation": "HR Manager",
+        "designation": "Frontend Architect",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -800,7 +1013,21 @@
       "address": {
         "street_address": "808 Birch St",
         "regions": [],
-        "location": "Austin"
+        "location": "Austin",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -809,9 +1036,8 @@
           "1.0"
         ],
         "manager": "Alice Wonder",
-        "designation": "abc",
+        "designation": "Senior frontend Developer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -830,7 +1056,7 @@
       "personal": {
         "first_name": "Patricia",
         "last_name": "Anderson",
-        "gender": "Male",
+        "gender": "Female",
         "date_of_birth": "2025-02-26",
         "about_us": "Business Analyst",
         "mobile_number": "+923456565987"
@@ -838,7 +1064,21 @@
       "address": {
         "street_address": "909 Oak St",
         "regions": [],
-        "location": "Jacksonville"
+        "location": "Jacksonville",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -847,9 +1087,8 @@
           "1.0"
         ],
         "manager": "John Doe",
-        "designation": "Business Analyst",
+        "designation": "FullStack Developer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -876,7 +1115,21 @@
       "address": {
         "street_address": "1010 Pine St",
         "regions": [],
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -885,9 +1138,8 @@
           "1.0"
         ],
         "manager": "Jane Smith",
-        "designation": "Network Engineer",
+        "designation": "FullStack Developer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -906,7 +1158,7 @@
       "personal": {
         "first_name": "Jennifer",
         "last_name": "Thomas",
-        "gender": "Male",
+        "gender": "Female",
         "date_of_birth": "2025-02-26",
         "about_us": "Marketing Manager",
         "mobile_number": "+923456565985"
@@ -914,7 +1166,21 @@
       "address": {
         "street_address": "1111 Maple St",
         "regions": [],
-        "location": "Columbus"
+        "location": "Columbus",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -923,9 +1189,8 @@
           "1.0"
         ],
         "manager": "Michael Brown",
-        "designation": "Marketing Manager",
+        "designation": "Lead Frontend Developer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -952,7 +1217,21 @@
       "address": {
         "street_address": "1212 Cedar St",
         "regions": [],
-        "location": "Charlotte"
+        "location": "Charlotte",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -960,10 +1239,9 @@
         "billing": [
           "1.0"
         ],
-        "manager": "Alice Wonder",
-        "designation": "Sales Executive",
+        "manager": "Furqan Zamir",
+        "designation": "UI/UX Engineer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -982,7 +1260,7 @@
       "personal": {
         "first_name": "Mary",
         "last_name": "Jackson",
-        "gender": "Male",
+        "gender": "Female",
         "date_of_birth": "2025-02-26",
         "about_us": "Customer Support",
         "mobile_number": "+923456565983"
@@ -990,7 +1268,21 @@
       "address": {
         "street_address": "1313 Elm St",
         "regions": [],
-        "location": "Indianapolis"
+        "location": "Indianapolis",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -999,9 +1291,8 @@
           "1.0"
         ],
         "manager": "John Doe",
-        "designation": "Customer Support",
+        "designation": "Software Engineer Frontend",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -1028,7 +1319,21 @@
       "address": {
         "street_address": "1414 Pine St",
         "regions": [],
-        "location": "Seattle"
+        "location": "Seattle",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -1037,9 +1342,8 @@
           "1.0"
         ],
         "manager": "Jane Smith",
-        "designation": "Finance Manager",
+        "designation": "Software Engineer Frontend",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -1066,7 +1370,21 @@
       "address": {
         "street_address": "1515 Oak St",
         "regions": [],
-        "location": "Denver"
+        "location": "Denver",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -1075,9 +1393,8 @@
           "1.0"
         ],
         "manager": "Michael Brown",
-        "designation": "Legal Advisor",
+        "designation": "Software Engineer Frontend",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -1104,7 +1421,21 @@
       "address": {
         "street_address": "1616 Maple St",
         "regions": [],
-        "location": "Washington"
+        "location": "Washington",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -1113,9 +1444,8 @@
           "1.0"
         ],
         "manager": "Alice Wonder",
-        "designation": "Security Analyst",
+        "designation": "Frontend Architect",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -1141,7 +1471,22 @@
       },
       "address": {
         "street_address": "1717 Cedar St",
-        "location": "Boston"
+        "location": "Boston",
+        "regions": [],
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -1150,9 +1495,8 @@
           "1.0"
         ],
         "manager": "John Doe",
-        "designation": "Content Writer",
+        "designation": "ReactJS Developer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
@@ -1441,7 +1785,10 @@
       "client_address": "sharjah_Furqan Studio_building",
       "client_designation": "CEO",
       "client_status": "Active",
-      "project_name": "E-commerce Platform",
+      "project_name": [
+        "E-learning Platform",
+        "Cybersecurity Platform"
+      ],
       "created_at": "2025-02-26",
       "updated_at": "2025-02-04"
     },
@@ -1454,7 +1801,9 @@
       "client_address": "dubai_du_office",
       "client_designation": "CEO",
       "client_status": "Inactive",
-      "project_name": "E-commerce Platform",
+      "project_name": [
+        "E-commerce Platform"
+      ],
       "created_at": "2025-02-10",
       "updated_at": "2025-02-15"
     },
@@ -1467,7 +1816,11 @@
       "client_address": "abu_dhabi_TC_tower",
       "client_designation": "CEO",
       "client_status": "Active",
-      "project_name": "E-commerce Platform",
+      "project_name": [
+        "E-learning Platform",
+        "Cloud Storage Solution",
+        "Smart Home Automation"
+      ],
       "created_at": "2025-01-20",
       "updated_at": "2025-02-12"
     },
@@ -1480,7 +1833,10 @@
       "client_address": "dubai_smarthub_center",
       "client_designation": "CEO",
       "client_status": "Active",
-      "project_name": "E-commerce Platform",
+      "project_name": [
+        "E-commerce Platform",
+        "Social Media App"
+      ],
       "created_at": "2025-02-05",
       "updated_at": "2025-02-10"
     },
@@ -1493,7 +1849,12 @@
       "client_address": "sharjah_mtn_office",
       "client_designation": "CEO",
       "client_status": "Active",
-      "project_name": "E-commerce Platform",
+      "project_name": [
+        "AI Chatbot",
+        "E-learning Platform",
+        "Social Media App",
+        "E-commerce Platform"
+      ],
       "created_at": "2025-02-01",
       "updated_at": "2025-02-11"
     },
@@ -1506,7 +1867,10 @@
       "client_address": "abu_dhabi_ooredoo_plaza",
       "client_designation": "CEO",
       "client_status": "Active",
-      "project_name": "E-commerce Platform",
+      "project_name": [
+        "E-commerce Platform",
+        "Social Media App"
+      ],
       "created_at": "2025-01-30",
       "updated_at": "2025-02-08"
     },
@@ -1519,7 +1883,10 @@
       "client_address": "dubai_stc_office",
       "client_designation": "CEO",
       "client_status": "Active",
-      "project_name": "E-commerce Platform",
+      "project_name": [
+        "E-commerce Platform",
+        "Social Media App"
+      ],
       "created_at": "2025-02-07",
       "updated_at": "2025-02-12"
     },
@@ -1532,7 +1899,10 @@
       "client_address": "sharjah_mobily_tower",
       "client_designation": "CEO",
       "client_status": "Active",
-      "project_name": "E-commerce Platform",
+      "project_name": [
+        "E-commerce Platform",
+        "Social Media App"
+      ],
       "created_at": "2025-01-28",
       "updated_at": "2025-02-06"
     },
@@ -1545,7 +1915,10 @@
       "client_address": "abu_dhabi_zain_office",
       "client_designation": "CEO",
       "client_status": "Active",
-      "project_name": "E-commerce Platform",
+      "project_name": [
+        "E-commerce Platform",
+        "Social Media App"
+      ],
       "created_at": "2025-02-02",
       "updated_at": "2025-02-09"
     },
@@ -1558,7 +1931,10 @@
       "client_address": "dubai_5g_center",
       "client_designation": "CEO",
       "client_status": "Active",
-      "project_name": "E-commerce Platform",
+      "project_name": [
+        "E-commerce Platform",
+        "Social Media App"
+      ],
       "created_at": "2025-02-09",
       "updated_at": "2025-02-13"
     },
@@ -1571,7 +1947,10 @@
       "client_address": "R-330/19 F.B Area Karachi Pakistan",
       "client_designation": "CEO",
       "client_status": "Active",
-      "project_name": "E-commerce Platform",
+      "project_name": [
+        "E-commerce Platform",
+        "Social Media App"
+      ],
       "created_at": "2025-02-27",
       "updated_at": "2025-02-27",
       "currentdate": "2025-02-19",
@@ -1586,7 +1965,10 @@
       "client_address": "abv-1236",
       "client_designation": "CEO",
       "client_status": "Active",
-      "project_name": "E-commerce Platform",
+      "project_name": [
+        "E-commerce Platform",
+        "Social Media App"
+      ],
       "created_at": "2025-02-19",
       "updated_at": "2025-02-24"
     },
@@ -1596,12 +1978,31 @@
       "contact_person": "furqan Zamir",
       "client_email": "furqancsit@gmail.com",
       "client_phone": "03463310882",
+      "client_address": "Karachi Pakistan",
+      "client_designation": "CEO",
+      "client_status": "Active",
+      "project_name": [
+        "AI Chatbot",
+        "Smart Home Automation"
+      ],
+      "created_at": "2025-02-28T11:06:01.949Z",
+      "updated_at": "2025-02-25"
+    },
+    {
+      "id": 14,
+      "client_name": "Furqan Studio b2b",
+      "contact_person": "furqan Zamir",
+      "client_email": "test@gmail.com",
+      "client_phone": "03463310882",
       "client_address": "R-330/19 F.B Area Karachi Pakistan",
       "client_designation": "CEO",
       "client_status": "Active",
-      "project_name": "E-commerce Platform",
-      "created_at": "2025-02-28T11:06:01.949Z",
-      "updated_at": "2025-02-25"
+      "project_name": [
+        "Social Media",
+        "Blockchain Payment abc"
+      ],
+      "created_at": "2025-04-16T06:55:38.364Z",
+      "updated_at": "2025-04-24"
     }
   ],
   "Stack": [
@@ -1651,7 +2052,7 @@
       "end_date": "2025-08-30",
       "priority": "Medium",
       "project_value": "50000",
-      "price_type": "USD",
+      "price_type": "$",
       "project_description": "Developing a scalable e-commerce platform.",
       "upload_docs": "",
       "team_member": [
@@ -1661,7 +2062,7 @@
         "Jane",
         "Peter"
       ],
-      "project_manager": "David Brown",
+      "project_manager": "Zain Malik",
       "project_status": "Active",
       "id": 1
     },
@@ -1702,17 +2103,20 @@
       "end_date": "2025-06-30",
       "priority": "High",
       "project_value": "40000",
-      "price_type": "USD",
+      "price_type": "$",
       "project_description": "Developing an AI chatbot for customer support.",
       "upload_docs": "",
       "team_member": [
-        "Natasha",
-        "John"
+        "Jane",
+        "Peter",
+        "Tony",
+        "Bruce",
+        "Natasha"
       ],
       "team_lead": [
-        "Jane"
+        "Furqan Zamir"
       ],
-      "project_manager": "James Carter",
+      "project_manager": "Sarah Ahmed",
       "project_status": "Active",
       "id": 3
     },
@@ -1890,28 +2294,6 @@
       "id": 10
     },
     {
-      "project_id": "Proj-011",
-      "project_name": "test",
-      "project_logo": "",
-      "client_name": "Furqan Zamir",
-      "start_date": "2025-03-18",
-      "end_date": "2025-03-25",
-      "priority": "High",
-      "project_value": "5855588",
-      "price_type": "$",
-      "project_description": "test",
-      "upload_docs": "",
-      "team_member": [
-        "Furqan Zamir Ahmed"
-      ],
-      "team_lead": [
-        "Peter"
-      ],
-      "project_manager": "Bilal Qureshi",
-      "project_status": "Active",
-      "id": 11
-    },
-    {
       "project_id": "Proj-012",
       "project_name": "Social Media",
       "project_logo": "",
@@ -1923,11 +2305,35 @@
       "price_type": "Daram",
       "project_description": "test",
       "upload_docs": "",
+      "team_member": [
+        "Jane",
+        "Peter",
+        "Bruce"
+      ],
+      "team_lead": [
+        "Natasha"
+      ],
+      "project_manager": "Furqan Zamir",
+      "project_status": "Active",
+      "id": 12
+    },
+    {
+      "project_id": "Proj-012",
+      "project_name": "E-commerce Platform",
+      "project_logo": "",
+      "client_name": "Furqan Zamir",
+      "start_date": "2025-04-02",
+      "end_date": "2025-04-02",
+      "priority": "High",
+      "project_value": "50000",
+      "price_type": "$",
+      "project_description": "",
+      "upload_docs": "",
       "team_member": [],
       "team_lead": [],
       "project_manager": "Furqan Zamir",
       "project_status": "Active",
-      "id": 12
+      "id": 13
     }
   ],
   "Designation": [
