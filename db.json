@@ -27,6 +27,11 @@
             "label": "E-commerce Platform",
             "value": "E-commerce Platform",
             "selected": true
+          },
+          {
+            "label": "Social Media App",
+            "value": "Social Media App",
+            "selected": false
           }
         ],
         "billing": [
@@ -34,21 +39,28 @@
             "label": "1.0",
             "value": "1.0",
             "selected": true
+          },
+          {
+            "label": "0.5",
+            "value": "0.5",
+            "selected": false
           }
         ]
       },
       "profile": {
         "project_name": [
-          "E-commerce Platform"
+          "E-commerce Platform",
+          "Social Media App"
         ],
         "billing": [
-          "1.0"
+          "1.0",
+          "0.5"
         ],
         "joining_date": "2025-02-24",
         "department": "CRM",
         "manager": "Ayesha Khan",
         "designation": "Senior frontend Developer",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp",
         "regions": [
           {
             "label": "UAE",
@@ -65,7 +77,7 @@
       "email": "jane.smith@email.com",
       "password": "pass456",
       "confirmPassword": "",
-      "status": "Resigned",
+      "status": "Active",
       "personal": {
         "first_name": "Jane",
         "last_name": "Smith",
@@ -112,7 +124,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -163,7 +175,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -214,7 +226,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -224,7 +236,7 @@
       "email": "bruce.wayne@wayne.com",
       "password": "batman",
       "confirmPassword": "",
-      "status": "Resigned",
+      "status": "Active",
       "personal": {
         "first_name": "Bruce",
         "last_name": "Wayne",
@@ -265,7 +277,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -316,7 +328,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -326,7 +338,7 @@
       "email": "admin@admin.com",
       "password": "admin",
       "confirmPassword": "",
-      "status": "Terminated",
+      "status": "Active",
       "personal": {
         "first_name": "Furqan",
         "last_name": "Zamir",
@@ -367,7 +379,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -405,7 +417,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -456,7 +468,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -507,7 +519,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -558,7 +570,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -609,7 +621,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -660,7 +672,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -711,7 +723,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -762,7 +774,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -800,7 +812,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -838,7 +850,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -889,7 +901,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -940,7 +952,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -991,7 +1003,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -1042,7 +1054,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -1093,7 +1105,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -1144,7 +1156,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -1195,7 +1207,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -1246,7 +1258,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -1297,7 +1309,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -1348,7 +1360,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -1399,7 +1411,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -1450,7 +1462,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -1501,7 +1513,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-01-31",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
     {
@@ -1562,7 +1574,7 @@
           "Healthcare App"
         ],
         "joining_date": "2025-02-25",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp",
         "regions": [
           {
             "label": "UAE",
@@ -1664,7 +1676,7 @@
           "UAE Project"
         ],
         "joining_date": "2025-02-25",
-        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp",
         "regions": [
           {
             "label": "UAE",
@@ -1685,70 +1697,70 @@
     {
       "id": 1,
       "dept_name": "CRM",
-      "manager_name": "Khurram",
+      "manager_name": "Furqan Zamir",
       "no_of_employee": "100",
-      "created_date": "2025-02-27"
+      "created_date": "2025-06-24"
     },
     {
       "id": 2,
       "dept_name": "Finance",
       "manager_name": "Ayesha Khan",
       "no_of_employee": "100",
-      "created_date": "2025-02-06"
+      "created_date": "2025-06-27"
     },
     {
       "id": 3,
       "dept_name": "IT Support",
-      "manager_name": "John Doe",
+      "manager_name": "Furqan Zamir",
       "no_of_employee": "100",
       "created_date": "2025-02-07"
     },
     {
       "id": 4,
       "dept_name": "Marketing",
-      "manager_name": "Sarah Ali",
+      "manager_name": "Sarah Ahmed",
       "no_of_employee": "100",
       "created_date": "2025-02-08"
     },
     {
       "id": 5,
       "dept_name": "HR",
-      "manager_name": "Michael Smith",
+      "manager_name": "Furqan Zamir",
       "no_of_employee": "100",
       "created_date": "2025-02-09"
     },
     {
       "id": 6,
       "dept_name": "Operations",
-      "manager_name": "Lisa Brown",
+      "manager_name": "Faisal ",
       "no_of_employee": "100",
       "created_date": "2025-02-10"
     },
     {
       "id": 7,
       "dept_name": "Sales",
-      "manager_name": "David Wilson",
+      "manager_name": "Sarah Ahmed",
       "no_of_employee": "100",
       "created_date": "2025-02-11"
     },
     {
       "id": 8,
       "dept_name": "Legal",
-      "manager_name": "Sophia Martinez",
+      "manager_name": "Bilal Qureshi",
       "no_of_employee": "100",
       "created_date": "2025-02-12"
     },
     {
       "id": 9,
       "dept_name": "Customer Service",
-      "manager_name": "James Anderson",
+      "manager_name": "Ayesha Khan",
       "no_of_employee": "100",
       "created_date": "2025-02-13"
     },
     {
       "id": 10,
       "dept_name": "R&D",
-      "manager_name": "Emily Johnson",
+      "manager_name": "Bilal Qureshi",
       "no_of_employee": "100",
       "created_date": "2025-02-14"
     },
@@ -1773,6 +1785,20 @@
       "created_date": "2025-02-04",
       "managers_name": "Furqan Zamir",
       "no_of_employee": "80"
+    },
+    {
+      "id": 14,
+      "dept_name": "Furqan Studio",
+      "manager_name": "Furqan Zamir",
+      "created_date": "2025-06-04T12:29:12.860Z",
+      "no_of_employee": "80"
+    },
+    {
+      "id": 15,
+      "dept_name": "Furqan Studio 333",
+      "manager_name": "Furqan Zamir",
+      "created_date": "2025-06-25",
+      "no_of_employee": "60"
     }
   ],
   "Client": [
@@ -1783,10 +1809,11 @@
       "client_email": "mshahbaz@abv.com",
       "client_phone": "054215545898",
       "client_address": "sharjah_Furqan Studio_building",
-      "client_designation": "CEO",
+      "client_designation": "CFO",
       "client_status": "Active",
       "project_name": [
-        "E-learning Platform",
+        "Blockchain Payment abc",
+        "Social Media",
         "Cybersecurity Platform"
       ],
       "created_at": "2025-02-26",
@@ -1799,7 +1826,7 @@
       "client_email": "ahmed.raza@du.com",
       "client_phone": "05541236589",
       "client_address": "dubai_du_office",
-      "client_designation": "CEO",
+      "client_designation": "Director",
       "client_status": "Inactive",
       "project_name": [
         "E-commerce Platform"
@@ -1847,13 +1874,12 @@
       "client_email": "bilal.akhtar@mtn.ae",
       "client_phone": "05896321478",
       "client_address": "sharjah_mtn_office",
-      "client_designation": "CEO",
+      "client_designation": "Manager",
       "client_status": "Active",
       "project_name": [
-        "AI Chatbot",
+        "Cybersecurity Platform",
         "E-learning Platform",
-        "Social Media App",
-        "E-commerce Platform"
+        "AI Chatbot"
       ],
       "created_at": "2025-02-01",
       "updated_at": "2025-02-11"
@@ -1929,11 +1955,12 @@
       "client_email": "imran.haider@5gsolutions.ae",
       "client_phone": "05741236985",
       "client_address": "dubai_5g_center",
-      "client_designation": "CEO",
+      "client_designation": "Director",
       "client_status": "Active",
       "project_name": [
-        "E-commerce Platform",
-        "Social Media App"
+        "AI Chatbot",
+        "E-learning Platform",
+        "Cybersecurity Platform"
       ],
       "created_at": "2025-02-09",
       "updated_at": "2025-02-13"
@@ -2408,6 +2435,11 @@
       "id": 6,
       "regions_name": "Germany",
       "created_at": "2025-02-26T18:55:25.654Z"
+    },
+    {
+      "id": 7,
+      "regions_name": "Africa",
+      "created_at": "2025-06-04T09:05:55.854Z"
     }
   ],
   "Locations": [
@@ -2494,14 +2526,14 @@
   "Manage_Event": [
     {
       "id": 1,
-      "event_name": "Annual Picnic",
+      "event_name": "Annual Picnic 2025",
       "start_date": "2025-02-04",
       "end_date": "2025-02-05",
       "event_description": "Enjoy the party"
     },
     {
       "id": 2,
-      "event_name": "Tech Conference",
+      "event_name": "Tech Conference Today",
       "start_date": "2025-03-10",
       "end_date": "2025-03-12",
       "event_description": "A gathering of tech enthusiasts and professionals."
