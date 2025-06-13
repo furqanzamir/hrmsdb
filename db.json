@@ -31,7 +31,7 @@
           {
             "label": "Social Media App",
             "value": "Social Media App",
-            "selected": false
+            "selected": true
           }
         ],
         "billing": [
@@ -43,7 +43,7 @@
           {
             "label": "0.5",
             "value": "0.5",
-            "selected": false
+            "selected": true
           }
         ]
       },
@@ -57,6 +57,7 @@
           "0.5"
         ],
         "joining_date": "2025-02-24",
+        "stack": "UI UX",
         "department": "CRM",
         "manager": "Ayesha Khan",
         "designation": "Senior frontend Developer",
@@ -68,7 +69,8 @@
             "selected": true
           }
         ]
-      }
+      },
+      "stack": "UI UX"
     },
     {
       "id": 3,
@@ -124,6 +126,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "Wordpress",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -175,6 +178,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "Design Strategy",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -226,6 +230,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "MERN",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -277,6 +282,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "Angular",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -328,6 +334,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "Design Strategy",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -379,6 +386,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "Full Stack",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -401,7 +409,21 @@
       "address": {
         "street_address": "123 Main St",
         "regions": [],
-        "location": "Los Angeles"
+        "location": "Los Angeles",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -410,13 +432,13 @@
           "1.0"
         ],
         "manager": "Jane Smith",
-        "designation": "Senior Software Engineer",
+        "designation": "Lead Frontend Developer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "Java Developer",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -468,6 +490,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "Design Strategy",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -519,6 +542,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "UI UX",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -570,6 +594,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "React",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -621,6 +646,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "Angular",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -672,6 +698,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "Full Stack",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -723,6 +750,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "Wordpress",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -774,6 +802,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "UI UX",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -796,7 +825,21 @@
       "address": {
         "street_address": "303 Oak St",
         "regions": [],
-        "location": "Philadelphia"
+        "location": "Philadelphia",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -807,11 +850,11 @@
         "manager": "Michael Brown",
         "designation": "Frontend Developer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "Java Developer",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -834,7 +877,21 @@
       "address": {
         "street_address": "404 Pine St",
         "regions": [],
-        "location": "San Antonio"
+        "location": "San Antonio",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
       },
       "profile": {
         "department": "Digital Department",
@@ -845,11 +902,11 @@
         "manager": "Alice Wonder",
         "designation": "Backend Developer",
         "project_name": [
-          "UAE Project",
           "E-commerce Platform"
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "Java Developer",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -901,6 +958,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "UI UX",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -952,6 +1010,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "Wordpress",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -1003,6 +1062,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "UI UX",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -1054,6 +1114,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "React",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -1105,6 +1166,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "Angular",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -1156,6 +1218,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "Full Stack",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -1207,6 +1270,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "Angular",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -1258,6 +1322,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "MERN",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -1309,6 +1374,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "Angular",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -1360,6 +1426,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "Full Stack",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -1411,6 +1478,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "UI UX",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -1462,6 +1530,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-02-26",
+        "stack": "UI",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -1513,6 +1582,7 @@
         ],
         "regions": "hrm",
         "joining_date": "2025-01-31",
+        "stack": "React",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
       }
     },
@@ -1574,6 +1644,7 @@
           "Healthcare App"
         ],
         "joining_date": "2025-02-25",
+        "stack": "Angular",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp",
         "regions": [
           {
@@ -1676,17 +1747,18 @@
           "UAE Project"
         ],
         "joining_date": "2025-02-25",
+        "stack": "Java Developer",
         "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp",
         "regions": [
           {
             "label": "UAE",
             "value": "UAE",
-            "selected": false
+            "selected": true
           },
           {
             "label": "UK",
             "value": "UK",
-            "selected": false
+            "selected": true
           }
         ]
       },
@@ -1799,6 +1871,13 @@
       "manager_name": "Furqan Zamir",
       "created_date": "2025-06-25",
       "no_of_employee": "60"
+    },
+    {
+      "id": 16,
+      "dept_name": "Furqan Studio",
+      "manager_name": "Furqan Zamir",
+      "created_date": "2025-06-13T06:54:31.314Z",
+      "no_of_employee": "10"
     }
   ],
   "Client": [
@@ -2067,6 +2146,21 @@
       "id": 8,
       "stack_name": "Design Strategy",
       "created_at": "2025-02-28T14:29:55.804Z"
+    },
+    {
+      "id": 9,
+      "stack_name": "MERN",
+      "created_at": "2025-06-13T06:49:33.750Z"
+    },
+    {
+      "id": 10,
+      "stack_name": "Full Stack",
+      "created_at": "2025-06-13T06:49:46.978Z"
+    },
+    {
+      "id": 11,
+      "stack_name": "Java Developer",
+      "created_at": "2025-06-13T06:59:25.023Z"
     }
   ],
   "Project": [
@@ -2440,6 +2534,26 @@
       "id": 7,
       "regions_name": "Africa",
       "created_at": "2025-06-04T09:05:55.854Z"
+    },
+    {
+      "id": 8,
+      "regions_name": "China",
+      "created_at": "2025-06-13T06:57:17.239Z"
+    },
+    {
+      "id": 9,
+      "regions_name": "Oman",
+      "created_at": "2025-06-13T06:57:43.428Z"
+    },
+    {
+      "id": 10,
+      "regions_name": "Qatar",
+      "created_at": "2025-06-13T06:57:50.178Z"
+    },
+    {
+      "id": 11,
+      "regions_name": "Egypt",
+      "created_at": "2025-06-13T06:57:59.301Z"
     }
   ],
   "Locations": [
